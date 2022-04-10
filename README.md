@@ -1,9 +1,8 @@
-# Fabric Example Mod
+# AC-Utils
 
-## Setup
+*There's not much here right now, it seems to still be a work in progress*
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+### Credits
 
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+- [CottonMC (LibGui)](https://github.com/CottonMC/LibGui) for the amazing GUI library
+- [Magistermaks (SimpleConfig)](https://github.com/magistermaks/fabric-simplelibs/tree/master/simple-config) for the nice and simple config.
